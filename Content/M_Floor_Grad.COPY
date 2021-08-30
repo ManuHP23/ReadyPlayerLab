@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_Floor_Grad"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=BA4730FB4CA3246B7C74B3B75A5251CF
+   Parent=Material'"/Game/DemoRoom/Materials/M_Wall_Main.M_Wall_Main"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Black Squares Value"),ParameterValue=0.600000,ExpressionGUID=50FA47C448C99332D265C5B3DE5A0383)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Emissive Mult"),ParameterValue=1.100000,ExpressionGUID=ECB3528D46352AAA74DB25BCEA40E5BE)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Grid_Scale"),ParameterValue=260.000000,ExpressionGUID=F9E1E91F407839BE6CA6E9B9FE87AB55)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Num_Intensity"),ExpressionGUID=AFCA267D44628908127F2B8BAF12F36C)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Roughness"),ParameterValue=0.270000,ExpressionGUID=A796E6EF4049CF0EE290B7B365452DA6)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=E0B2A9E4416E00E31BE8E591A716455D
+   ReferencedTextureGuids(1)=BFA1448E4F091A676A6BABAE2CBED824
+   ReferencedTextureGuids(2)=B285767F427F83D650352BB9054F0515
+   CachedReferencedTextures(0)=Texture2D'"/Game/DemoRoom/Textures/T_Color_Grad.T_Color_Grad"'
+   CachedReferencedTextures(1)=Texture2D'"/Game/DemoRoom/Textures/numbers.numbers"'
+   CachedReferencedTextures(2)=Texture2D'"/Game/DemoRoom/Textures/T_Grid_Num.T_Grid_Num"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="numbers",TextureReference=/Game/DemoRoom/Textures/numbers.numbers)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_Color_Grad",TextureReference=/Game/DemoRoom/Textures/T_Color_Grad.T_Color_Grad)
+   TextureStreamingData(2)=(SamplingScale=130.000000,UVChannelIndex=0,TextureName="T_Grid_Num",TextureReference=/Game/DemoRoom/Textures/T_Grid_Num.T_Grid_Num)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=190562574A881CFE7435299BF946144A
+End Object

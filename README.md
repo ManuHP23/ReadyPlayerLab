@@ -1,7 +1,8 @@
-# ReadyPlayerLab_v2
+# ReadyPlayerLab
 
-Developed with Unreal Engine 4
+Ready Player Lab es un laboratorio de química gamificado en Realidad Virtual.
 
-TFM Máster en Desarrollo de Videojuegos
+Desarrollado con Unreal Engine 4.
 
-v2 Segunda versión después de pruebas iniciales
+Proyecto de Desarrollo de Videojuegos 3D y TFM del Máster en Desarrollo de Videojuegos.
+
